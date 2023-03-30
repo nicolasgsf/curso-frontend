@@ -31,3 +31,4 @@ https://github.com/nicolasgsf/curso-frontend.git
 -git add *
 -git commit -m "Mensagem descrevendo a alteração"
 -git push (Para enviar as alterações para o Repositório online)
+- git pull (Puxar / trazer alterações do Github para a minha máquina)

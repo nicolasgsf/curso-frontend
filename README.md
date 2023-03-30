@@ -42,5 +42,8 @@ Ex:
 - Main / Master (Vai apra produção, quando o projeto é publicado)
 - Develop (pra fazer os testes)
 
+git checkout -b dev (cria uma branch)
+git checkout master (muda de branch)
+
 ## Merge
 Mescla de branchs

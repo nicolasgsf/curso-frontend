@@ -32,3 +32,18 @@ https://github.com/nicolasgsf/curso-frontend.git
 -git commit -m "Mensagem descrevendo a alteração"
 -git push (Para enviar as alterações para o Repositório online)
 - git pull (Puxar / trazer alterações do Github para a minha máquina)
+
+## GitFlow
+Fluxo do Git
+
+### Branchs
+São as ramificações do código / versões paralelas
+Ex: 
+- Main / Master (Vai apra produção, quando o projeto é publicado)
+- Develop (pra fazer os testes)
+
+git checkout -b dev (cria uma branch)
+git checkout master (muda de branch)
+
+## Merge
+Mescla de branchs

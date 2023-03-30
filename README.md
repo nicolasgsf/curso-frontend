@@ -11,13 +11,13 @@ Item 1
 Item 2
 Item 3
 E listas com marcadores:
-
-Item 1
+Item 5
 Item 2
 Item 3
 Além disso, podemos adicionar links para outros sites, como Google e imagens:
 
-Imagem de exemplo
+Imagem de exemplo:
+Aqui viria uma imagem...
 
 Com isso, podemos utilizar o GitHub para compartilhar e colaborar em projetos de forma organizada e com uma formatação clara e legível.
 

@@ -41,3 +41,6 @@ São as ramificações do código / versões paralelas
 Ex: 
 - Main / Master (Vai apra produção, quando o projeto é publicado)
 - Develop (pra fazer os testes)
+
+## Merge
+Mescla de branchs

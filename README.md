@@ -23,3 +23,10 @@ Com isso, podemos utilizar o GitHub para compartilhar e colaborar em projetos de
 
 Git clone 
 https://github.com/nicolasgsf/curso-frontend.git
+
+##GitFlow
+
+-Escrever o código
+-git add *
+-git commit -m "Mensagem descrevendo a alteração"
+-git push (Para enviar as alterações para o Repositório online)
